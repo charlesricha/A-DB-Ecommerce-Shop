@@ -29,9 +29,9 @@ Find the **Entity-Relationship Diagram** below:
 
 ## 📂 Database Structure
 Here are the main entities and their relationships:
-
+<div></div>
 <img src ="./Table.PNG" alt="" > 
-
+</div>
 🛠️ Tools & Technologies
 Database: MySQL / PostgreSQL (you can specify which one you used)
 
