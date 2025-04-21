@@ -24,12 +24,12 @@ Find the **Entity-Relationship Diagram** below:
 
 
 <p align="center">
-  <img src="ERD.PNG" alt="ER Diagram" width="600">
+  <img src="./ERD.PNG" alt="ER Diagram" width="600">
 </p>
 📂 Database Structure
 Here are the main entities and their relationships:
 
-<img src="Table.PNG" alt=""> 
+<img src="./Table.PNG" alt=""> 
 
 🛠️ Tools & Technologies
 Database: MySQL / PostgreSQL (you can specify which one you used)
