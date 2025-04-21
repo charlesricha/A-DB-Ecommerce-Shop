@@ -22,7 +22,7 @@ We aimed for a clean, normalized structure that ensures data consistency, effici
 
 Find the **Entity-Relationship Diagram** below:
 
-```html
+
 <p align="center">
   <img src="ERD.PNG" alt="ER Diagram" width="600">
 </p>
