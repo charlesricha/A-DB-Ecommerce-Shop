@@ -30,8 +30,8 @@ Find the **Entity-Relationship Diagram** below:
 ## 📂 Database Structure
 Here are the main entities and their relationships:
 
-<div
-<img src ="./Tables.PNG" alt="" > 
+<div>
+<img src ="./Tables.PNG" alt="Tables image" > 
 </div>
 
 ## 🛠️ Tools & Technologies
