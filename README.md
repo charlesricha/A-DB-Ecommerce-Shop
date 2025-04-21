@@ -29,17 +29,19 @@ Find the **Entity-Relationship Diagram** below:
 
 ## 📂 Database Structure
 Here are the main entities and their relationships:
-<div></div>
-<img src ="./Table.PNG" alt="" > 
+
+<div
+<img src ="./Tables.PNG" alt="" > 
 </div>
-🛠️ Tools & Technologies
+
+## 🛠️ Tools & Technologies
 Database: MySQL / PostgreSQL (you can specify which one you used)
 
 Diagramming Tool: Draw.io, Lucidchart, or Figma (specify here)
 
 Project Management: GitHub, Trello (if applicable)
 
-📚 How to Use
+## 📚 How to Use
 Clone this repository.
 
 Open the provided SQL scripts.
@@ -48,18 +50,23 @@ Execute them in your local database environment.
 
 Start inserting sample data and explore the relationships!
 
-👨‍👩‍👧‍👦 Team Members
-Daisy Cherono
-Busisiwe Mabilisa
-Karen Mumbi
-Felix Gishu
-Tracey kawa
-Onyinyechi Obika
-Bridget Kaneng
-Charles Muthui
-Milicent Nyarandi
-Caleb Mbau
-
+## 👨‍👩‍👧‍👦 Team Members
+<ul style ={{
+  display:flex,
+  flex-direction:column.
+  gap:2rem,
+}}>
+<li>Daisy Cherono</li>
+<li>Busisiwe Mabilisa</li>
+<li>Karen Mumbi</li>
+<li>Felix Gishu</li>
+<li>Tracey kawa</li>
+<li>Onyinyechi Obika</li>
+<li>Bridget Kaneng</li>
+<li>Charles Muthui</li>
+<li>Milicent Nyarandi</li>
+<li>Caleb Mbau</li>
+</ul>
 🚀 Future Enhancements
 Add product reviews and ratings
 
