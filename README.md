@@ -62,7 +62,7 @@ Start inserting sample data and explore the relationships!
 <li>Charles Muthui</li>
 
 </ul>
-🚀 Future Enhancements
+## 🚀 Future Enhancements
 Add product reviews and ratings
 
 Implement user authentication and roles
@@ -71,6 +71,6 @@ Expand payment methods (e.g., PayPal, Cryptocurrency)
 
 Improve shipment tracking with real-time updates
 
-📜 License
+## 📜 License
 This project is licensed for educational purposes only.
 Feel free to explore, learn, and adapt!
