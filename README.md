@@ -56,16 +56,11 @@ Start inserting sample data and explore the relationships!
   flex-direction:column.
   gap:2rem,
 }}>
-<li>Daisy Cherono</li>
-<li>Busisiwe Mabilisa</li>
+
 <li>Karen Mumbi</li>
 <li>Felix Gishu</li>
-<li>Tracey kawa</li>
-<li>Onyinyechi Obika</li>
-<li>Bridget Kaneng</li>
 <li>Charles Muthui</li>
-<li>Milicent Nyarandi</li>
-<li>Caleb Mbau</li>
+
 </ul>
 🚀 Future Enhancements
 Add product reviews and ratings
