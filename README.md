@@ -62,7 +62,9 @@ Start inserting sample data and explore the relationships!
 <li>Charles Muthui</li>
 
 </ul>
+
 ## 🚀 Future Enhancements
+
 Add product reviews and ratings
 
 Implement user authentication and roles
